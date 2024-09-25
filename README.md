@@ -59,7 +59,7 @@ Wiktor Kolakowski - a minigame (chap 10 lobster quadrille or another chapter)
 no AI for creative
 
 ***
-Stanton's Chapter 4 rework (see HTML doc in repository)
+Stanton's Chapter 5 rework (see HTML doc in repository)
 
 BLOCK 1: (unchanged from Carroll)
 
